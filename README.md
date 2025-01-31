@@ -20,7 +20,7 @@ This is EFI configuration for my Hackintosh system with [**OpenCore**](https://d
 
 ## What Don't Work or Untested
 
-- Thunderbolt 3
+- Thunderbolt 3:
   There is a TB3 ACPI, but i have not tested it yet.
 
 ## Using My EFI
